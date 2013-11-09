@@ -1,0 +1,11 @@
+# disable word wrap
+set nowrap
+
+# default tabs are too big - shrink to 4 spaces
+set tabsize 4
+
+# scroll only one line at a time
+set smooth
+
+# maintain tab indent on new lines
+set autoindent
