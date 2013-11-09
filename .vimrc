@@ -4,6 +4,7 @@ set hlsearch
 set wildmenu
 set hidden
 set mouse=a
+set tabstop=4
 
 let mapleader = ","
 
