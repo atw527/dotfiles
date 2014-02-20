@@ -9,15 +9,15 @@ set tabstop=4
 let mapleader = ","
 
 "Learning mode!
-map <up> <nop>
-map <down> <nop>
-map <left> <nop>
-map <right> <nop>
+"map <up> <nop>
+"map <down> <nop>
+"map <left> <nop>
+"map <right> <nop>
 
-imap <up> <nop>
-imap <down> <nop>
-imap <left> <nop>
-imap <right> <nop>
+"imap <up> <nop>
+"imap <down> <nop>
+"imap <left> <nop>
+"imap <right> <nop>
 
 "Set locations for swap files
 set backupdir=~/.vim/tmp,~/tmp,/var/tmp,/tmp,.
