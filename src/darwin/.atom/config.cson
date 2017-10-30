@@ -1,0 +1,41 @@
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+    wrapSelectionsInBrackets: false
+  core:
+    audioBeep: false
+    closeDeletedFileTabs: true
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/andrew/go/src"
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+  editor:
+    atomicSoftTabs: false
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "b17c17b1-b320-4bfe-b1a5-b9b55d75030d"
+  "go-plus":
+    disabledBundledPackages: [
+      "linter"
+      "go-debug"
+      "hyperclick"
+      "go-signature-statusbar"
+    ]
+    panel:
+      currentHeight: "22.5vh"
+    test: {}
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        white: "#b5b5b5"
+      zBright:
+        brightWhite: "#dbdbdb"
+    core:
+      autoRunCommand: "cd ~/go/src"
+      workingDirectory: "Home"
+    style:
+      animationSpeed: 0
+      theme: "one-dark"
+  welcome:
+    showOnStartup: false
